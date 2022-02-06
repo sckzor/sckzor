@@ -6,8 +6,8 @@ My name is Charlie or sckzor.  This is my GitHub with all of my projects (in cas
 
 <a href="https://github.com/jstrieb/github-stats">
   
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sckzor&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sckzor&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sckzor&count_private=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sckzor)]()
   
 </a>
 
