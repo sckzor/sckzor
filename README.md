@@ -6,8 +6,8 @@ My name is Charlie or sckzor.  This is my GitHub with all of my projects (in cas
 
 <a href="https://github.com/jstrieb/github-stats">
   
-![](https://raw.githubusercontent.com/sckzor/github-stats/master/generated/overview.svg)
-![](https://github.com/sckzor/github-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
